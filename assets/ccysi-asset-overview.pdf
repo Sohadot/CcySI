@@ -33,9 +33,9 @@ stream
 0.09 0.17 0.16 rg BT /F5 16 Tf 1 0 0 1 45 399 Tm (Asset snapshot) Tj ET
 0.32 0.39 0.36 rg BT /F4 12 Tf 1 0 0 1 45 375 Tm (CcySI.com  |  Five letters  |  .com  |  CCY + SI) Tj ET
 0.32 0.39 0.36 rg BT /F4 12 Tf 1 0 0 1 45 358 Tm (Holder: Sohadot) Tj ET
-0.32 0.39 0.36 rg BT /F4 12 Tf 1 0 0 1 45 341 Tm (Public reference edition: 1.1.0 \(24 November 2026\)) Tj ET
+0.32 0.39 0.36 rg BT /F4 12 Tf 1 0 0 1 45 341 Tm (Public reference edition: 1.1.1 \(24 November 2026\)) Tj ET
 0.51 0.40 0.18 RG 0.8 w 45 58 m 550 58 l S
-0.32 0.39 0.36 rg BT /F4 10 Tf 1 0 0 1 45 36 Tm (CCYSI.COM  /  PUBLIC ASSET BRIEF  /  V1.0) Tj ET
+0.32 0.39 0.36 rg BT /F4 10 Tf 1 0 0 1 45 36 Tm (CCYSI.COM  /  PUBLIC ASSET BRIEF  /  V1.1) Tj ET
 0.51 0.40 0.18 rg BT /F5 10 Tf 1 0 0 1 525 36 Tm (01) Tj ET
 endstream
 endobj
@@ -60,12 +60,12 @@ stream
 0.32 0.39 0.36 rg BT /F4 12 Tf 1 0 0 1 45 442 Tm (Machine-native FX and agentic payment infrastructure) Tj ET
 0.32 0.39 0.36 rg BT /F4 12 Tf 1 0 0 1 45 425 Tm (Currency risk intelligence and cross-border settlement) Tj ET
 0.09 0.17 0.16 rg BT /F5 16 Tf 1 0 0 1 45 382 Tm (Why this territory matters) Tj ET
-0.32 0.39 0.36 rg BT /F4 12 Tf 1 0 0 1 45 358 Tm (Oracle FLEXCUBE documents standing instructions, variable payments) Tj ET
-0.32 0.39 0.36 rg BT /F4 12 Tf 1 0 0 1 45 341 Tm (and balance-triggered sweeps. Project Agora explores programmable) Tj ET
-0.32 0.39 0.36 rg BT /F4 12 Tf 1 0 0 1 45 324 Tm (wholesale cross-border payments. Google AP2 addresses authorization) Tj ET
-0.32 0.39 0.36 rg BT /F4 12 Tf 1 0 0 1 45 307 Tm (and evidence for agent-led payments. See the thesis for sources.) Tj ET
+0.32 0.39 0.36 rg BT /F4 12 Tf 1 0 0 1 45 358 Tm (Core banking documentation covers conditional transfers [8, 9].)    Tj ET
+0.32 0.39 0.36 rg BT /F4 12 Tf 1 0 0 1 45 341 Tm (Project Agora explores programmable cross-border payments [4].)    Tj ET
+0.32 0.39 0.36 rg BT /F4 12 Tf 1 0 0 1 45 324 Tm (Agent payment protocols address authorization and evidence [5].)     Tj ET
+0.32 0.39 0.36 rg BT /F4 12 Tf 1 0 0 1 45 307 Tm (See the reference thesis for source details.)                     Tj ET
 0.51 0.40 0.18 RG 0.8 w 45 58 m 550 58 l S
-0.32 0.39 0.36 rg BT /F4 10 Tf 1 0 0 1 45 36 Tm (CCYSI.COM  /  PUBLIC ASSET BRIEF  /  V1.0) Tj ET
+0.32 0.39 0.36 rg BT /F4 10 Tf 1 0 0 1 45 36 Tm (CCYSI.COM  /  PUBLIC ASSET BRIEF  /  V1.1) Tj ET
 0.51 0.40 0.18 rg BT /F5 10 Tf 1 0 0 1 525 36 Tm (02) Tj ET
 endstream
 endobj
@@ -97,7 +97,7 @@ stream
 0.32 0.39 0.36 rg BT /F4 12 Tf 1 0 0 1 45 257 Tm (revenue stream, financial license, registered trademark or endorsement.) Tj ET
 0.32 0.39 0.36 rg BT /F4 12 Tf 1 0 0 1 45 240 Tm (No exclusive rights in general concepts or terminology are asserted.) Tj ET
 0.51 0.40 0.18 RG 0.8 w 45 58 m 550 58 l S
-0.32 0.39 0.36 rg BT /F4 10 Tf 1 0 0 1 45 36 Tm (CCYSI.COM  /  PUBLIC ASSET BRIEF  /  V1.0) Tj ET
+0.32 0.39 0.36 rg BT /F4 10 Tf 1 0 0 1 45 36 Tm (CCYSI.COM  /  PUBLIC ASSET BRIEF  /  V1.1) Tj ET
 0.51 0.40 0.18 rg BT /F5 10 Tf 1 0 0 1 525 36 Tm (03) Tj ET
 endstream
 endobj
