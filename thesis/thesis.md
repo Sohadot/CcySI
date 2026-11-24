@@ -112,11 +112,11 @@ CcySI is not a financial institution, currency, investment product, trading plat
 
 [4] BIS Innovation Hub, [Project Agorá: a shared programmable platform for wholesale cross-border payments](https://www.bis.org/publications/project-agora-shared-programmable-platform-wholesale-cross-border-payments), 27 May 2026. Prototype context.
 
-[5] Google Cloud, [Announcing Agent Payments Protocol (AP2)](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol), 16 September 2025. Agent payment authorization context.
+[5] Google Cloud, [Powering AI commerce with the new Agent Payments Protocol (AP2)](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol), 16 September 2025. Agent payment authorization context.
 
 [6] Committee on Payments and Market Infrastructures, [CPMI glossary](https://www.bis.org/committees/cpmi/glossary).
 
-[7] CPMI-IOSCO, [Principles for Financial Market Infrastructures](https://www.bis.org/committees/cpmi/pfmi/overview), 2012. Institutional context, including settlement finality and exchange-of-value settlement systems; not a claim that this proposed framework meets those standards.
+[7] CPSS-IOSCO (CPSS now CPMI), [Principles for Financial Market Infrastructures](https://www.bis.org/committees/cpmi/pfmi/overview), 2012. Institutional context, including settlement finality and exchange-of-value settlement systems; not a claim that this proposed framework meets those standards.
 
 References were reviewed for relevance on 24 November 2026. The principles and architecture above are the proposed synthesis of CcySI, not statements adopted by the cited institutions.
 
