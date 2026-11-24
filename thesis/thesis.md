@@ -1,6 +1,6 @@
 # CcySI — The Currency Intelligence Thesis
 
-**Version:** 1.0.0 (first reference edition)  
+**Version:** 1.1.0 (semantic expansion)  
 **Edition date:** 2026-11-24  
 **Attribution:** Sohadot · CcySI.com  
 **Status:** Proposed conceptual framework; not a standard, product specification or operational system.
@@ -9,7 +9,9 @@
 
 ## 1. Identity and scope
 
-CcySI combines CCY (currency) and SI (superintelligence). CCY is an established abbreviation in financial systems, as documented by Oracle Banking [1]; FIX also uses the shortened form Ccy in settlement currency fields [2]. CCY is not itself an ISO currency code. SI is the chosen conceptual expansion of the name, not a financial abbreviation or a claim that superintelligence exists.
+CCY is a documented abbreviation for currency in financial systems [1, 2]. In banking, SI also denotes Standing Instruction: an arrangement for processing specified transactions under recorded instructions [8, 9]. Oracle FLEXCUBE documents payment orders, variable payments and balance-triggered sweeps, including instruction currency. CcySI uses Superintelligence as its prospective conceptual expansion. The two meanings connect financial authority and intelligent capability without conflating them.
+
+A standing instruction illustrates a durable mandate with defined conditions; it does not grant unrestricted discretion. More capable systems can interpret circumstances and propose actions, but authority remains a separate requirement. The CcySI identity connects these concerns: intelligence evolves; authority remains essential.
 
 Currency Superintelligence is a prospective identity. Intelligent Currency Orchestration is its nearer-term commercial territory: the coordination of currency-related understanding, allocation planning, authorization, commitments, execution and settlement evidence. The term is descriptive, not an assertion of a newly recognized industry category or exclusive rights in general terminology.
 
@@ -93,6 +95,8 @@ These are possible development directions, not current services, customer relati
 
 ## 7. Boundaries and terminology
 
+CCY is an abbreviation, not an ISO currency code. Standing Instruction is an established banking usage of SI; CcySI is a composed identity, not a recognized banking term. Standing instructions are not synonymous with all forms of authorization, nor are they equivalent to superintelligence. Superintelligence is a prospective meaning of SI. The descriptive positioning does not claim exclusive rights or a recognized industry category.
+
 - **Currency intelligence:** information and reasoning about currency-denominated resources, exchange conditions, obligations and risks.
 - **Intelligent currency orchestration:** the proposed coordination of those insights with the authority, actions and evidence needed for financial operations.
 - **Superintelligence:** a prospective concept of intelligence exceeding human capabilities broadly; the name does not assert its realization or specify a forecast.
@@ -118,16 +122,20 @@ CcySI is not a financial institution, currency, investment product, trading plat
 
 [7] CPSS-IOSCO (CPSS now CPMI), [Principles for Financial Market Infrastructures](https://www.bis.org/publications/principles-financial-market-infrastructures), 2012. Institutional context, including settlement finality and exchange-of-value settlement systems; not a claim that this proposed framework meets those standards.
 
+[8] Oracle FLEXCUBE Universal Banking, [Standing Instructions — an Overview](https://docs.oracle.com/cd/E86273_01/html/SI/SI02_Intro.htm). Standing orders, sweeps and variable payments.
+
+[9] Oracle FLEXCUBE Universal Banking, [Recording an Instruction](https://docs.oracle.com/cd/E80148_01/html/SI/SI04_Cont.htm). Instruction currency, authorization and execution conditions.
+
 References were reviewed for relevance on 24 November 2026. The principles and architecture above are the proposed synthesis of CcySI, not statements adopted by the cited institutions.
 
 ## 9. Citation and revision policy
 
-Suggested citation: Sohadot (2026). *CcySI — The Currency Intelligence Thesis*, version 1.0.0, edition dated 24 November 2026. https://ccysi.com/thesis/. Cite the version and a stable repository revision where appropriate.
+Suggested citation: Sohadot (2026). *CcySI — The Currency Intelligence Thesis*, version 1.1.0, edition dated 24 November 2026. https://ccysi.com/thesis/. Cite the version and a stable repository revision where appropriate.
 
 The canonical reference location is https://ccysi.com/thesis/. The equivalent Markdown representation is designated at https://ccysi.com/thesis/thesis.md. Web availability depends on deployment.
 
 Substantive changes to definitions, principles, scope or functional relationships require a new version and dated revision record. Corrections affecting meaning require a new version; purely visual or infrastructure changes do not. References should be checked before release, and HTML and Markdown must remain substantively identical after publication.
 
-Revision record: 0.1.0 — initial reference draft; 1.0.0 — first reference edition, with citation metadata and direct PFMI publication link updated; conceptual principles and architecture unchanged.
+Revision record: 0.1.0 — initial reference draft; 1.0.0 — first reference edition, with citation metadata and direct PFMI publication link updated; conceptual principles and architecture unchanged. 1.1.0 — adds the banking meaning of SI, mandate context and two Oracle references; the eight principles and architecture remain unchanged. [Read edition 1.0.0](https://github.com/Sohadot/CcySI/blob/3b66ebc11fff70d55838ead937a5addf9b368b1f/thesis/thesis.md).
 
 CcySI is an independent conceptual identity attributed to Sohadot. Attribution does not imply exclusive rights over general concepts, financial terminology or third-party materials.
