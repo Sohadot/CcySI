@@ -1,6 +1,6 @@
 # CcySI — The Currency Intelligence Thesis
 
-**Version:** 1.1.0 (semantic expansion)  
+**Version:** 1.1.1 (editorial revision)  
 **Edition date:** 2026-11-24  
 **Attribution:** Sohadot · CcySI.com  
 **Status:** Proposed conceptual framework; not a standard, product specification or operational system.
@@ -9,7 +9,7 @@
 
 ## 1. Identity and scope
 
-CCY is a documented abbreviation for currency in financial systems [1, 2]. In banking, SI also denotes Standing Instruction: an arrangement for processing specified transactions under recorded instructions [8, 9]. Oracle FLEXCUBE documents payment orders, variable payments and balance-triggered sweeps, including instruction currency. CcySI uses Superintelligence as its prospective conceptual expansion. The two meanings connect financial authority and intelligent capability without conflating them.
+CCY is a documented abbreviation for currency in financial systems [1, 2]. In banking, SI also denotes Standing Instruction: an arrangement for processing specified transactions under recorded instructions [8, 9]. Core banking documentation describes payment orders, variable payments and balance-triggered sweeps, including instruction currency [8, 9]. CcySI uses Superintelligence as its prospective conceptual expansion. The two meanings connect financial authority and intelligent capability without conflating them.
 
 A standing instruction illustrates a durable mandate with defined conditions; it does not grant unrestricted discretion. More capable systems can interpret circumstances and propose actions, but authority remains a separate requirement. The CcySI identity connects these concerns: intelligence evolves; authority remains essential.
 
@@ -23,7 +23,7 @@ In multi-currency environments, observing prices and balances is not equivalent 
 
 The central problem is the disciplined transition from currency-related understanding to authorized, economically coherent and verifiable financial action.
 
-This matters in real financial infrastructure. BIS research describes the risk of one FX leg settling without the other [3]. Project Agorá explores programmable wholesale cross-border payments through a prototype [4]. Google announced the Agent Payments Protocol to support authorization and evidence in agent-led payments [5]. These are distinct developments; none establishes the existence of superintelligence, endorsement of CcySI, or the validation of this framework.
+This matters in real financial infrastructure. BIS research describes the risk of one FX leg settling without the other [3]. Project Agorá explores programmable wholesale cross-border payments through a prototype [4]. Agent-led payment protocols describe mechanisms for recording and verifying payment authority [5]. These are distinct developments; none establishes the existence of superintelligence, endorsement of CcySI, or the validation of this framework.
 
 ## 3. Principles
 
@@ -130,12 +130,12 @@ References were reviewed for relevance on 24 November 2026. The principles and a
 
 ## 9. Citation and revision policy
 
-Suggested citation: Sohadot (2026). *CcySI — The Currency Intelligence Thesis*, version 1.1.0, edition dated 24 November 2026. https://ccysi.com/thesis/. Cite the version and a stable repository revision where appropriate.
+Suggested citation: Sohadot (2026). *CcySI — The Currency Intelligence Thesis*, version 1.1.1, edition dated 24 November 2026. https://ccysi.com/thesis/. Cite the version and a stable repository revision where appropriate.
 
 The canonical reference location is https://ccysi.com/thesis/. The equivalent Markdown representation is designated at https://ccysi.com/thesis/thesis.md. Web availability depends on deployment.
 
 Substantive changes to definitions, principles, scope or functional relationships require a new version and dated revision record. Corrections affecting meaning require a new version; purely visual or infrastructure changes do not. References should be checked before release, and HTML and Markdown must remain substantively identical after publication.
 
-Revision record: 0.1.0 — initial reference draft; 1.0.0 — first reference edition, with citation metadata and direct PFMI publication link updated; conceptual principles and architecture unchanged. 1.1.0 — adds the banking meaning of SI, mandate context and two Oracle references; the eight principles and architecture remain unchanged. [Read edition 1.0.0](https://github.com/Sohadot/CcySI/blob/3b66ebc11fff70d55838ead937a5addf9b368b1f/thesis/thesis.md).
+Revision record: 0.1.0 — initial reference draft; 1.0.0 — first reference edition, with citation metadata and direct PFMI publication link updated; conceptual principles and architecture unchanged. 1.1.0 — adds the banking meaning of SI, mandate context and two core banking references; the eight principles and architecture remain unchanged. 1.1.1 — editorial neutrality revision; source attribution remains in the references, with no change to the conceptual model. [Read edition 1.0.0](https://github.com/Sohadot/CcySI/blob/3b66ebc11fff70d55838ead937a5addf9b368b1f/thesis/thesis.md); [read edition 1.1.0](https://github.com/Sohadot/CcySI/blob/983efab8a77e41b996bd71878dce4c1b28a7db68/thesis/thesis.md).
 
 CcySI is an independent conceptual identity attributed to Sohadot. Attribution does not imply exclusive rights over general concepts, financial terminology or third-party materials.

@@ -11,4 +11,4 @@ CcySI proposes eight analytical functions: Observe, Interpret, Allocate, Authori
 - [Strategic acquisition](https://ccysi.com/#acquisition): asset scope and contact.
 - [Strategic Asset Overview (PDF)](https://ccysi.com/assets/ccysi-asset-overview.pdf): public acquisition brief.
 
-Cite: Sohadot (2026). CcySI — The Currency Intelligence Thesis, version 1.1.0, edition dated 24 November 2026. See the reference for version and revision policy. The reference does not assert third-party endorsement or exclusive rights in general concepts. This file is a supplemental discovery aid, not a guarantee of indexing or citation.
+Cite: Sohadot (2026). CcySI — The Currency Intelligence Thesis, version 1.1.1, edition dated 24 November 2026. See the reference for version and revision policy. The reference does not assert third-party endorsement or exclusive rights in general concepts. This file is a supplemental discovery aid, not a guarantee of indexing or citation.
