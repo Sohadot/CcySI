@@ -130,7 +130,9 @@ References were reviewed for relevance on 24 November 2026. The principles and a
 
 ## 9. Citation and revision policy
 
-Suggested citation: Sohadot (2026). *CcySI — The Currency Intelligence Thesis*, version 1.1.1, edition dated 24 November 2026. https://ccysi.com/thesis/. Cite the version and a stable repository revision where appropriate.
+Suggested citation: Sohadot (2026). *CcySI — The Currency Intelligence Thesis* (Version 1.1.1). Zenodo. https://doi.org/10.5281/zenodo.24510097
+
+Version DOI: [10.5281/zenodo.24510097](https://doi.org/10.5281/zenodo.24510097). Concept DOI (all editions): [10.5281/zenodo.24510096](https://doi.org/10.5281/zenodo.24510096). The archived edition is the fixed reference; this web edition adds citation metadata without changing the conceptual text.
 
 The canonical reference location is https://ccysi.com/thesis/. The equivalent Markdown representation is designated at https://ccysi.com/thesis/thesis.md. Web availability depends on deployment.
 

@@ -1,0 +1,29 @@
+{
+  "cff-version": "1.2.0",
+  "message": "Please cite the archived reference report using the preferred citation below.",
+  "title": "CcySI public website and reference materials",
+  "authors": [
+    {
+      "name": "Sohadot"
+    }
+  ],
+  "repository-code": "https://github.com/Sohadot/CcySI",
+  "url": "https://ccysi.com/",
+  "preferred-citation": {
+    "type": "report",
+    "title": "CcySI — The Currency Intelligence Thesis",
+    "authors": [
+      {
+        "name": "Sohadot"
+      }
+    ],
+    "year": 2026,
+    "month": 11,
+    "version": "1.1.1",
+    "doi": "10.5281/zenodo.24510097",
+    "url": "https://zenodo.org/records/24510097",
+    "institution": {
+      "name": "Sohadot"
+    }
+  }
+}

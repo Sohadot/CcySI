@@ -7,8 +7,10 @@ CcySI proposes eight analytical functions: Observe, Interpret, Allocate, Authori
 ## Reference
 - [The Currency Intelligence Thesis](https://ccysi.com/thesis/): canonical HTML reference.
 - [The Currency Intelligence Thesis (Markdown)](https://ccysi.com/thesis/thesis.md): equivalent text representation.
+- [Archived reference edition 1.1.1](https://doi.org/10.5281/zenodo.24510097): version-specific DOI.
+- [Reference editions](https://doi.org/10.5281/zenodo.24510096): concept DOI across versions.
 - [Identity and asset record](https://ccysi.com/): positioning, architecture and potential applications.
 - [Strategic acquisition](https://ccysi.com/#acquisition): asset scope and contact.
 - [Strategic Asset Overview (PDF)](https://ccysi.com/assets/ccysi-asset-overview.pdf): public acquisition brief.
 
-Cite: Sohadot (2026). CcySI — The Currency Intelligence Thesis, version 1.1.1, edition dated 24 November 2026. See the reference for version and revision policy. The reference does not assert third-party endorsement or exclusive rights in general concepts. This file is a supplemental discovery aid, not a guarantee of indexing or citation.
+Cite: Sohadot (2026). CcySI — The Currency Intelligence Thesis (Version 1.1.1). Zenodo. https://doi.org/10.5281/zenodo.24510097 See the reference for version and revision policy. The reference does not assert third-party endorsement or exclusive rights in general concepts. This file is a supplemental discovery aid, not a guarantee of indexing or citation.
