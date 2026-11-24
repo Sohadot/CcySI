@@ -4,10 +4,11 @@
 
 From currency intelligence to financial action.
 
-CcySI is an independent conceptual identity for intelligent currency orchestration: understanding monetary conditions, planning liquidity allocation, respecting financial authority, and verifying financial outcomes.
+Public static website and reference materials for CcySI.com. CcySI is an independent conceptual identity for intelligent currency orchestration, not an operating financial service.
 
-[The Currency Intelligence Thesis](thesis/thesis.md) — public reference draft, version 0.1.0.
+- [Currency Intelligence Thesis, version 1.0.0](thesis/thesis.md)
+- [Reference HTML](thesis/index.html)
 
-This repository contains public materials for CcySI.com. CcySI is a conceptual asset, not an operating financial service, trading system, licensed institution or claim of existing superintelligence.
+The website is static HTML, CSS, SVG and lightweight JavaScript, without external runtime dependencies. The reference HTML reproduces the Markdown edition.
 
 Sohadot · CcySI.com
