@@ -1,7 +1,7 @@
 # CcySI — The Currency Intelligence Thesis
 
-**Version:** 0.1.0 (public reference draft)  
-**Draft date:** 2026-11-24  
+**Version:** 1.0.0 (first reference edition)  
+**Edition date:** 2026-11-24  
 **Attribution:** Sohadot · CcySI.com  
 **Status:** Proposed conceptual framework; not a standard, product specification or operational system.
 
@@ -116,16 +116,18 @@ CcySI is not a financial institution, currency, investment product, trading plat
 
 [6] Committee on Payments and Market Infrastructures, [CPMI glossary](https://www.bis.org/committees/cpmi/glossary).
 
-[7] CPSS-IOSCO (CPSS now CPMI), [Principles for Financial Market Infrastructures](https://www.bis.org/committees/cpmi/pfmi/overview), 2012. Institutional context, including settlement finality and exchange-of-value settlement systems; not a claim that this proposed framework meets those standards.
+[7] CPSS-IOSCO (CPSS now CPMI), [Principles for Financial Market Infrastructures](https://www.bis.org/publications/principles-financial-market-infrastructures), 2012. Institutional context, including settlement finality and exchange-of-value settlement systems; not a claim that this proposed framework meets those standards.
 
 References were reviewed for relevance on 24 November 2026. The principles and architecture above are the proposed synthesis of CcySI, not statements adopted by the cited institutions.
 
 ## 9. Citation and revision policy
 
-Suggested draft citation: Sohadot (2026). *CcySI — The Currency Intelligence Thesis*, version 0.1.0, draft dated 24 November 2026. Cite a stable repository revision for this draft.
+Suggested citation: Sohadot (2026). *CcySI — The Currency Intelligence Thesis*, version 1.0.0, edition dated 24 November 2026. https://ccysi.com/thesis/. Cite the version and a stable repository revision where appropriate.
 
-The intended canonical web reference, once published, is https://ccysi.com/thesis/. The corresponding Markdown representation will be available at https://ccysi.com/thesis/thesis.md after deployment. These are intended locations, not a statement of current availability.
+The canonical reference location is https://ccysi.com/thesis/. The equivalent Markdown representation is designated at https://ccysi.com/thesis/thesis.md. Web availability depends on deployment.
 
 Substantive changes to definitions, principles, scope or functional relationships require a new version and dated revision record. Corrections affecting meaning require a new version; purely visual or infrastructure changes do not. References should be checked before release, and HTML and Markdown must remain substantively identical after publication.
+
+Revision record: 0.1.0 — initial reference draft; 1.0.0 — first reference edition, with citation metadata and direct PFMI publication link updated; conceptual principles and architecture unchanged.
 
 CcySI is an independent conceptual identity attributed to Sohadot. Attribution does not imply exclusive rights over general concepts, financial terminology or third-party materials.

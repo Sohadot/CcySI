@@ -1,0 +1,13 @@
+# CcySI — Currency × Superintelligence
+
+> Independent conceptual identity for intelligent currency orchestration, held by Sohadot. From currency intelligence to financial action.
+
+CcySI proposes eight analytical functions: Observe, Interpret, Allocate, Authorize, Commit, Execute, Settle, Verify. Authorization and verification are cross-cutting. SI is prospective; CcySI is not an operational financial service, standard, or claim of existing superintelligence.
+
+## Reference
+- [The Currency Intelligence Thesis](https://ccysi.com/thesis/): canonical HTML reference.
+- [The Currency Intelligence Thesis (Markdown)](https://ccysi.com/thesis/thesis.md): equivalent text representation.
+- [Identity and asset record](https://ccysi.com/): positioning, architecture and potential applications.
+- [Strategic acquisition](https://ccysi.com/#acquisition): asset scope and contact.
+
+Cite: Sohadot (2026). CcySI — The Currency Intelligence Thesis, version 1.0.0, edition dated 24 November 2026. See the reference for version and revision policy. The reference does not assert third-party endorsement or exclusive rights in general concepts. This file is a supplemental discovery aid, not a guarantee of indexing or citation.
